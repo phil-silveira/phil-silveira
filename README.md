@@ -26,6 +26,7 @@ Software Developer at CWI Software
 ![Flutter badge](https://img.shields.io/badge/Flutter-blue?logo=Flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-gray?logo=firebase)
 ![Flask](https://img.shields.io/badge/Flask-white?logo=Flask&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-gray?logo=react)
 ![NodeJS](https://img.shields.io/badge/NodeJS-gray?logo=Node.js)
 ![Docker](https://img.shields.io/badge/Docker-gray?logo=docker)
 ![Redis](https://img.shields.io/badge/Redis-gray?logo=redis)
